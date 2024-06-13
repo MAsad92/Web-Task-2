@@ -1,0 +1,48 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .contact-section {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .contact-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-section ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .contact-section ul li {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .social-icons a:hover {
+    color: #ccc;
+  }
+  

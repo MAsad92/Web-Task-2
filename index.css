@@ -1,0 +1,23 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+    padding-top: 56px; /* Add padding to offset the fixed navbar */
+  }
+  
+  #about, #skills, #expertise, #ambitions, #profession {
+    padding: 60px 0;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: #ddd;
+  }
+  
